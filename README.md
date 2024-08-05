@@ -1,3 +1,3 @@
 # demo
 this is a demo repositary.<br>
-author--sachin nr
+author--its sachin nr
